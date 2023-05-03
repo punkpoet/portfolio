@@ -13,7 +13,7 @@
 
     document.querySelector(".downloadCv").addEventListener("click", () => {
         
-        window.open('docs/Rahul_Ramacadran_CV.pdf');
+        window.open('/docs/Rahul_Ramacadran_CV.pdf');
         // document.body.appendChild('docs/Rahul_Ramacadran_CV.pdf');
     })
 
