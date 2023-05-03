@@ -12,9 +12,7 @@
     })
 
     document.querySelector(".downloadCv").addEventListener("click", () => {
-        alert('x');
-        window.open('/docs/Rahul_Ramacadran_CV.pdf');
-        // document.body.appendChild('docs/Rahul_Ramacadran_CV.pdf');
+        window.open('/docs/Rahul_Ramacadran_CV.pdf','_blank')
     })
 
     
